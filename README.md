@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js,next js,flutter**
 
-- 💬 Ask me about **bahasa pemograman,hardware computer dll**
+- 💬 Ask me about **language javascript,hardware computer dll**
 
 - 📫 How to reach me **satriaalfarizkib2@gmail.com**
 
