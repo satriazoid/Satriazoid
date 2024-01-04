@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Binar-Bootcamp](Binar-Bootcamp)
 
-- ⚡ Fun fact **Aku sedang belajar javascript lebih dalam lagi, jika ingin mengobrol tentang javascript les't connet to discord me**
+- ⚡ Fun fact **[I'm learning more about javascript, if you want to chat about javascript, friend me on discord.](https://github.com/datascienceid/panduan-github.git)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
