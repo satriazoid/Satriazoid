@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Project underworld**
 
-- 🌱 I’m currently learning **React js,next js,flutter**
+- 🌱 I’m currently learning **React js, Next js, Postrgree & monggodb**
 
 - 💬 Ask me about **language javascript,hardware computer dll**
 
