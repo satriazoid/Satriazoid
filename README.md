@@ -1,5 +1,5 @@
 <img src="Banner-github-4-light.png" alt="Satria github README header iamge">
-<h1 align="center">Hi 👋, I'm Satriaalfa</h1>
+<h1 align="center">Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Satriaalfa</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Project underworld**
