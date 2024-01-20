@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact **I'm learning more about javascript, if you want to chat about javascript, friend me on discord.**
 
-![readmebox](https://github.com/satriazoid/satriazoid/assets/95572197/ada39a6c-6e2e-4a48-8fc0-7d8ced094816)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/satriazoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satriazoid" height="30" width="40" /></a>
