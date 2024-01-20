@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I'm learning more about javascript, if you want to chat about javascript, friend me on discord.**
 
-![readmebox](https://github.com/AlyaKagerou/AlyaKagerou/assets/95572197/ada39a6c-6e2e-4a48-8fc0-7d8ced094816)
+![readmebox](https://github.com/satriazoid/satriazoid/assets/95572197/ada39a6c-6e2e-4a48-8fc0-7d8ced094816)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
