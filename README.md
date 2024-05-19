@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **satriaalfarizkib2@gmail.com**
 
-- 📄 Know about my experiences [Binar-Bootcamp](Binar-Bootcamp)
+- 📄 Know about my experiences **(Binar-Bootcamp)**
 
 - ⚡ Fun fact **I'm learning more about javascript, if you want to chat about javascript, friend me on discord.**
 
