@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React js, Next js, Postrgree & monggodb**
 - 💬 Ask me about **language javascript,hardware computer dll**
 - 📫 How to reach me **satriaalfarizkib2@gmail.com**
-- 📄 Know about my experiences **(Binar-Bootcamp)**
+- 📄 Know about my experiences **Binar-Bootcamp**
 - ⚡ Fun fact **I'm learning more about javascript, if you want to chat about javascript, friend me on discord.**
 
 <h3 align="left">Connect with me:</h3>
