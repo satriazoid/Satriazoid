@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Project underworld**
 - 🌱 I’m currently learning **React js, Next js, Postrgree & monggodb**
-- 💬 Ask me about **language javascript,hardware computer dll**
+- 💬 Ask me about **language javascript,hardware computer**
 - 📫 How to reach me **satriaalfarizkib2@gmail.com**
 - 📄 Know about my experiences **Binar-Bootcamp**
 - ⚡ Fun fact **I'm learning more about javascript, if you want to chat about javascript, friend me on discord.**
