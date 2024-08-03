@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Satria</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Project underworld**
+- 🔭 I'm currently editing social media and building some custom APIs for data science.
 - 🌱 I’m currently learning **React js, Next js, Postrgree & monggodb**
 - 💬 Ask me about **language javascript,hardware computer**
 - 📫 How to reach me **satriaalfarizkib2@gmail.com**
