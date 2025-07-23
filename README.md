@@ -5,7 +5,7 @@
 - 🔭 I'm currently editing social media and building some custom APIs for data science.
 - 🌱 I’m currently learning **React js, Next js, Postrgree & monggodb**
 - 💬 Ask me about **language javascript,hardware computer**
-- 📫 How to reach me **satriaalfarizkib2@gmail.com**
+- 📫 How to reach me **satriaalfa@outlook.com**
 - 📄 Know about my experiences **Binar-Bootcamp**
 - ⚡ Fun fact **I'm learning more about javascript, if you want to chat about javascript, friend me on discord.**
 
