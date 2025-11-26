@@ -1,5 +1,5 @@
 <img src="sakura.gif" alt="Satria github README header iamge">
-<h1 align="center">Hi 👋 I'm Satria</h1>
+<h1 align="center">Hi 👋 I'm Jejo</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🔭 I'm currently editing social media and building some custom APIs for data science.
