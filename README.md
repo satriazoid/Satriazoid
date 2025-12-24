@@ -1,11 +1,11 @@
 <!-- 👉 GIF Preview (ganti link.gif nanti) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/vercel-preview.gif" width="75%" alt="Project Preview"/>
+  <img src="https://github.com/satriazoid/Satriazoid/blob/main/sakura.gif" width="75%" alt="Project Preview"/>
 </p>
 
 <h1 align="center">Hi, I'm Satria 👋</h1>
 <p align="center">
-  Data Scientist • Frontend Developer • UI Designer  
+  Data Scientist • Frontend Developer • UI Designer • Trader • Tech Enthusiast
 </p>
 
 ---
