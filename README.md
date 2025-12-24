@@ -1,71 +1,46 @@
-# Satria jejo
+<!-- 👉 GIF Preview (ganti link.gif nanti) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/vercel-preview.gif" width="75%" alt="Project Preview"/>
+</p>
 
-**Data Scientist • Frontend Developer • UI Interface Designer**
-
-I build digital solutions by combining **data insight**, **clean code**, and **thoughtful interface design**.  
-My focus is not only on *what* works, but also *why* it works and *how* it feels to use.
-
----
-
-## 🧩 What I Do
-
-I work across three connected areas:
-
-- **Data Science**  
-  Transform raw data into insights that support better decisions.
-
-- **Frontend Development**  
-  Build responsive, performant, and accessible web interfaces.
-
-- **UI Interface Design**  
-  Design calm, intuitive layouts that prioritize clarity and usability.
+<h1 align="center">Hi, I'm Satria 👋</h1>
+<p align="center">
+  Data Scientist • Frontend Developer • UI Designer  
+</p>
 
 ---
 
-## 🛠 Core Skills
+### I build things that are:
+- 📊 **Driven by data**
+- 💡 **Designed with clarity**
+- 🧩 **Engineered for real usability**
 
-**Data & Analysis**
-- Python, Pandas, NumPy  
-- Data Visualization & Exploratory Analysis  
-- Basic Machine Learning
-
-**Web Development**
-- HTML, CSS, JavaScript  
-- Responsive & mobile-first design  
-- Performance optimization
-
-**Design**
-- Figma  
-- UX thinking & wireframing  
-- Minimalist design systems
+I merge **insight + code + design** to craft products that feel as good as they look.
 
 ---
 
-## 📌 Selected Work
-
-- **Personal Portfolio Website**  
-  A one-page, scroll-based portfolio focused on presentation, clarity, and storytelling.
-
-- **Data Analysis Projects**  
-  Analytical projects exploring trends, patterns, and predictions from real datasets.
+### 🛠 Tech I Use
+**Data** → Python, Pandas, NumPy, Matplotlib  
+**Web** → HTML, CSS, JavaScript  
+**Design** → Figma, wireframes, minimalist UI
 
 ---
 
-## 🎯 Working Principles
-
-- Clarity over complexity  
-- Function before decoration  
-- Data-driven decisions  
-- Continuous learning
+### 💼 Work
+**Personal Portfolio** — one-page, scroll storytelling, clarity-first interface.  
 
 ---
 
-## 📫 Connect With Me
-
-- **LinkedIn:** 
-- **GitHub:** https://github.com/satriazoid 
-- **Email:** satriaalfa77@outlook
+### 🎛 Principles
+> Clarity over complexity • Function before decoration • Less, but better.
 
 ---
 
-> *“Good work is not loud — it is clear.”*
+### 🌐 Connect with Me
+📌 GitHub → **@satriazoid**  
+📧 Email → satriaalfa77@outlook  
+🔗 LinkedIn → *(isi nanti)*
+
+---
+
+<p align="center"><i>“Good work is not loud — it is clear.”</i></p>
