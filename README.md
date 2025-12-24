@@ -39,7 +39,7 @@ I merge **insight + code + design** to craft products that feel as good as they 
 ### 🌐 Connect with Me
 📌 GitHub → **@satriazoid**  
 📧 Email → satriaalfa77@outlook  
-🔗 LinkedIn → *(isi nanti)*
+🔗 LinkedIn → 
 
 ---
 
