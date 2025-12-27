@@ -1,7 +1,7 @@
 <img src="sakura.gif" alt="Satria github README header image">
 
 <h1 align="center">Hi 👋 I'm Satria</h1>
-<h3 align="center">A passionate Frontend Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
 ---
 
