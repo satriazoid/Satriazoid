@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <p>@created by jejo 2026</p>
+  @created by jejo 2026
 </p>
