@@ -1,6 +1,6 @@
 <img src="sakura.gif" width="100%" />
 
-<h1 align="center">Satria</h1>
+<h1 align="center">Satriazoid</h1>
 <p align="center">
 Frontend Developer • Indonesia
 </p>
@@ -43,5 +43,5 @@ Building modern web interfaces with JavaScript and React ecosystem.
 </p>
 
 <p align="center">
-<sub>© 2026 Satria</sub>
+<sub>© 2026 Satriazoid</sub>
 </p>
