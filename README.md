@@ -1,6 +1,6 @@
 <img src="sakura.gif" width="100%" />
 
-<h1 align="center">Satria Alfarizki</h1>
+<h1 align="center">Satriazoid/h1>
 <p align="center">
 Frontend Developer • Indonesia
 </p>
