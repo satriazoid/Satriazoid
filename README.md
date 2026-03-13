@@ -1,25 +1,30 @@
 <img src="sakura.gif" width="100%" />
 
-<h1 align="center">Satriazoid</h1>
+<h1 align="center">Satria</h1>
 <p align="center">
-Frontend Developer | Data scientist - Indonesia
+Frontend Developer • Indonesia
 </p>
+
+<p align="center">
+Building modern web interfaces with JavaScript and React ecosystem.
+</p>
+
+---
 
 ### About
 
-Frontend developer focused on building clean and modern web interfaces.
+- 🛠 Currently building **Project Underworld**
+- 🌱 Learning **React, Next.js, PostgreSQL, MongoDB**
+- 💬 Interested in **JavaScript & computer hardware**
+- 🎓 **Binar Academy Bootcamp**
+- 📫 **satriaalfa77@outlook.com**
 
-- 🌱 Currently learning **React, Next.js, PostgreSQL**
-- 🛠 Building **Project Underworld**
-- 💬 Interested in **JavaScript & hardware**
-- 📫 satriaalfa77@outlook.com
+---
 
-### Tech Stack
+### Tech
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,postgres,mongodb" />
-
 </p>
 
 ---
@@ -28,7 +33,7 @@ Frontend developer focused on building clean and modern web interfaces.
 
 <p>
 <a href="https://instagram.com/satriazoid">Instagram</a> •
-<a href="https://discord.gg/akujejo">Discord</a>
+<a href="https://discord.gg/Satriajour1#8367">Discord</a>
 </p>
 
 ---
@@ -38,5 +43,5 @@ Frontend developer focused on building clean and modern web interfaces.
 </p>
 
 <p align="center">
-<sub>created by jejo</sub>
+<sub>© 2026 Satria</sub>
 </p>
