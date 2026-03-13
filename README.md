@@ -4,6 +4,7 @@
 <p align="center">
 Frontend Developer • Indonesia
 </p>
+
 ### About
 
 Frontend developer focused on building clean and modern web interfaces.
@@ -12,8 +13,6 @@ Frontend developer focused on building clean and modern web interfaces.
 - 🛠 Building **Project Underworld**
 - 💬 Interested in **JavaScript & hardware**
 - 📫 satriaalfa77@outlook.com
-
----
 
 ### Tech Stack
 
