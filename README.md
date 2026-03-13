@@ -1,8 +1,8 @@
 <img src="sakura.gif" width="100%" />
 
-<h1 align="center">Satriazoid/h1>
+<h1 align="center">Satriazoid</h1>
 <p align="center">
-Frontend Developer • Indonesia
+Frontend Developer | Data scientist - Indonesia
 </p>
 
 ### About
@@ -28,7 +28,7 @@ Frontend developer focused on building clean and modern web interfaces.
 
 <p>
 <a href="https://instagram.com/satriazoid">Instagram</a> •
-<a href="https://discord.gg/Satriajour1#8367">Discord</a>
+<a href="https://discord.gg/akujejo">Discord</a>
 </p>
 
 ---
