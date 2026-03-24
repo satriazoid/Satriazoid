@@ -2,7 +2,7 @@
 
 <h1 align="center">Satriazoid</h1>
 <p align="center">
-Frontend Developer • Indonesia
+Fullstack Developer | Data scientist • Indonesia
 </p>
 
 <p align="center">
