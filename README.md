@@ -30,7 +30,7 @@ Building modern web interfaces with JavaScript and React ecosystem.
 ### Connect
 
 <p>
-<a href="https://instagram.com/4triaaa">Instagram</a> |
+<a href="https://instagram.com/satrialpha">Instagram</a> |
 <a href="https://discord.gg/Satriajour1#8367">Discord</a> |
 <a href="https://mailto:satriaalfa77@outlook.com">Outlook</a> |
 <a href="https://mailto:satriaalfarizkib2@gmail.com">Gmail</a> |
