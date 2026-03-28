@@ -36,8 +36,6 @@ Building modern web interfaces with JavaScript and React ecosystem.
 <a href="https://mailto:satriaalfarizkib2@gmail.com">Gmail</a> |
 </p>
 
----
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
