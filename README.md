@@ -9,7 +9,6 @@ Fullstack Developer | Data scientist • Indonesia
 Building modern web interfaces with JavaScript and React ecosystem.
 </p>
 
----
 
 ### About
 
