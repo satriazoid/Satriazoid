@@ -17,16 +17,15 @@
 
 
 
-🌱 Learning **React, Next.js, PostgreSQL, MongoDB**
-💬 Interested in **JavaScript & computer hardware**
-🎓 **Binar Academy Bootcamp Alumni**
-🎓 **Teknik Informatika - Universitas Pamulang**
-⚡ Fun fact: I love exploring new technologies and hardware configurations!
+- 🌱 Learning **React, Next.js, PostgreSQL, MongoDB**
+- 💬 Interested in **JavaScript & computer hardware**
+- 🎓 **Binar Academy Bootcamp Alumni**
+- 🎓 **Teknik Informatika - Universitas Pamulang**
+- ⚡ Fun fact: I love exploring new technologies and hardware configurations!
 
 <hr />
 
 ### 📊 GitHub Stats
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriazoid&theme=radical" alt="GitHub Streak" />
