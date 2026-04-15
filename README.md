@@ -35,7 +35,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,postgres,mongodb,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,postgres,mongodb,git,github,vscode" />
 </div>
 
 ### 💼 Professional Journey
