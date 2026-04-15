@@ -46,8 +46,6 @@
 * **Desk Collection @ PT Julo Teknologi Finance** (Juli 2021 - Agustus 2022)
   Berfokus pada pelayanan pelanggan yang ramah dan efisien.
 
-<hr />
-
 ### 🏆 Achievements
 
 * **Binar Academy X Kominfo Tangerang Selatan**
