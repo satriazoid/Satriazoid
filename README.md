@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Satria Alfarizki!
+# 👋 Halo, Saya Satria!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Core-Web_Development-blue?style=for-the-badge&logo=react" />
