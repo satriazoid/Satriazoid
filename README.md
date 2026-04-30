@@ -1,13 +1,13 @@
-# 👋 Halo, Saya Satria!
+# 👋 Hi there, I'm Satria Alfarizki!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Core-Web_Development-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Core-Data_Science-orange?style=for-the-badge&logo=jupyter" />
   <img src="https://img.shields.io/badge/Core-Python_Automation-green?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Core-IT_Support_Advanced-red?style=for-the-badge&logo=windows10" />
+  <img src="https://img.shields.io/badge/Core-Advanced_IT_Support-red?style=for-the-badge&logo=windows10" />
 </p>
 
-Saya adalah seorang developer yang bergerak di persimpangan **Web Development**, **Data Science**, dan **Digital Infrastructure**. Saya berfokus pada pembangunan aplikasi web yang skalabel, pengolahan data analitik yang mendalam, serta manajemen infrastruktur IT yang efisien.
+I am a developer working at the intersection of **Web Development**, **Data Science**, and **Digital Infrastructure**. I focus on building scalable web applications, performing deep analytical data processing, and managing efficient IT infrastructure.
 
 ---
 
@@ -43,7 +43,7 @@ Saya adalah seorang developer yang bergerak di persimpangan **Web Development**,
 ---
 
 ### ✍️ Writing & Publication
-Selain membangun sistem, saya aktif menulis artikel mendalam mengenai perkembangan teknologi, implementasi AI (Multi-LLM), dan optimasi alur kerja IT.
+Beyond building systems, I actively write in-depth articles regarding tech trends, AI implementation (Multi-LLM), and IT workflow optimization.
 
 <p align="left">
   <a href="https://satriazoid.substack.com" target="_blank">
@@ -53,10 +53,10 @@ Selain membangun sistem, saya aktif menulis artikel mendalam mengenai perkembang
 
 ---
 
-### 🚀 Fokus Utama Saat Ini
-* 🧪 **Data Analytics:** Melakukan scraping dan analisis data menggunakan Python untuk pengambilan keputusan berbasis data.
-* 🤖 **AI Implementation:** Mengembangkan Custom Multi-LLM Agent (Gemini/GPT/Claude) dengan sistem rotasi API.
-* 🏗️ **Infrastructure Management:** Mengelola aset teknis komunitas dan optimasi manajemen proyek menggunakan Jira.
+### 🚀 Current Focus
+* 🧪 **Data Analytics:** Performing advanced web scraping and data cleaning using Python for data-driven insights.
+* 🤖 **AI Implementation:** Developing a Custom Multi-LLM Agent (Gemini/GPT/Claude) with automated API rotation.
+* 🏗️ **Infrastructure Management:** Managing technical community assets and optimizing project management via Jira.
 
 ---
 
