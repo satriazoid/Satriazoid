@@ -54,17 +54,13 @@ Beyond building systems, I actively write in-depth articles regarding tech trend
 ---
 
 ### 🚀 Current Focus
-* 🧪 **Data Analytics:** Performing advanced web scraping and data cleaning using Python for data-driven insights.
-* 🤖 **AI Implementation:** Developing a Custom Multi-LLM Agent (Gemini/GPT/Claude) with automated API rotation.
-* 🏗️ **Infrastructure Management:** Managing technical community assets and optimizing project management via Jira.
+1. **Data Analytics:** Performing advanced web scraping and data cleaning using Python for data-driven insights.
+2. **AI Implementation:** Developing a Custom Multi-LLM Agent (Gemini/GPT/Claude) with automated API rotation.
+3. **Infrastructure Management:** Managing technical community assets and optimizing project management via Jira.
 
 ---
 
 ### 📊 GitHub Activity & Achievements
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satriazoid&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriazoid&layout=compact&theme=tokyonight&hide=html" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satriazoid&theme=tokyonight&column=6" />
