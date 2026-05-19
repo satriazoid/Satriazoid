@@ -116,8 +116,6 @@ Dengan pendekatan yang berorientasi pada solusi teknis, saya membangun otomatisa
   </table>
 </div>
 
----
-
 ## Selected Work & Current Focus
 
 <div align="center">
@@ -153,8 +151,6 @@ Dengan pendekatan yang berorientasi pada solusi teknis, saya membangun otomatisa
   </table>
 </div>
 
----
-
 ## Writing & Publication
 <p align="justify">
 Selain membangun sistem teknis, saya aktif menulis artikel mendalam mengenai tren teknologi terbaru, implementasi AI (<em>Multi-LLM</em>), dan optimalisasi alur kerja IT.
@@ -165,8 +161,6 @@ Selain membangun sistem teknis, saya aktif menulis artikel mendalam mengenai tre
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
   </a>
 </p>
-
----
 
 ## GitHub Analytics
 
@@ -179,7 +173,6 @@ Selain membangun sistem teknis, saya aktif menulis artikel mendalam mengenai tre
   <img src="https://github-profile-trophy.vercel.app/?username=satriazoid&theme=tokyonight&column=6" width="100%" alt="Trophy" />
 </div>
 
----
 
 ## Contact & Connect
 
