@@ -62,7 +62,7 @@ Dengan pendekatan yang berorientasi pada solusi teknis, saya membangun otomatisa
 ## Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,php,nodejs,react,laravel,tailwind,bootstrap,html,css,mysql,postgres,docker,nginx,linux,windows,cloudflare,git,github,jira,vscode,postman" alt="Tech Stack Overview" />
+  <img src="https://skillicons.dev/icons?i=js,py,php,nodejs,react,laravel,tailwind,bootstrap,html,css,mysql,postgres,docker,nginx,linux,windows,cloudflare,git,github,vscode,postman" alt="Tech Stack Overview" />
   <br/>
   <br/>
   <table>
