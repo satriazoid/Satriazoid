@@ -28,8 +28,6 @@ Saya adalah seorang developer yang bergerak di persimpangan antara <strong>Web D
 Dengan pendekatan yang berorientasi pada solusi teknis, saya membangun otomatisasi sistem menggunakan Python, mengintegrasikan berbagai API kecerdasan buatan (<em>Multi-LLM</em>), dan memastikan keandalan sistem operasi serta manajemen database berjalan lancar untuk mendukung kebutuhan teknologi modern.
 </p>
 
----
-
 ## Core Expertise
 
 <div align="center">
@@ -56,8 +54,6 @@ Dengan pendekatan yang berorientasi pada solusi teknis, saya membangun otomatisa
     </tr>
   </table>
 </div>
-
----
 
 ## Technology Stack
 
