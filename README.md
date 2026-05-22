@@ -43,7 +43,7 @@ Dengan pendekatan yang berorientasi pada solusi teknis, saya membangun otomatisa
         <strong>Data Science &amp; Automation</strong><br/>
         <sub>Python • Pandas • NumPy • BeautifulSoup • Selenium • Web Scraping</sub>
         <br/><br/>
-        Melakukan ekstraksi data dari web (*scraping*), pembersihan data (*data cleaning*), analisis data untuk wawasan bisnis, serta pembuatan skrip otomatisasi alur kerja.
+        Melakukan ekstraksi data dari web (scraping), pembersihan data (*data cleaning*), analisis data untuk wawasan bisnis, serta pembuatan skrip otomatisasi alur kerja.
       </td>
       <td width="33.33%" valign="top">
         <strong>IT Support &amp; Infrastructure</strong><br/>
