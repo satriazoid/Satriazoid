@@ -47,7 +47,7 @@ Dengan pendekatan yang berorientasi pada solusi teknis, saya membangun otomatisa
       </td>
       <td width="33.33%" valign="top">
         <strong>IT Support &amp; Infrastructure</strong><br/>
-        <sub>Windows 10 Pro • CLI Specialist • Hostinger • MySQL • PostgreSQL • Jira</sub>
+        <sub>Windows 10 Pro • CLI Specialist • Hostinger • MySQL • PostgreSQL</sub>
         <br/><br/>
         Manajemen database, konfigurasi sistem operasi, optimasi perintah berbasis CLI, pengelolaan domain/cloud, serta pengaturan manajemen proyek tim via Jira.
       </td>
