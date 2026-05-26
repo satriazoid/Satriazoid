@@ -169,10 +169,6 @@ Selain membangun sistem teknis, saya aktif menulis artikel mendalam mengenai tre
   <img src="https://img.shields.io/github/stars/satriazoid?style=for-the-badge&logo=github&label=Total%20Stars&color=0ea5e9" alt="GitHub Stars" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satriazoid&theme=tokyonight&column=6" width="100%" alt="Trophy" />
-</div>
-
 
 ## Contact & Connect
 
