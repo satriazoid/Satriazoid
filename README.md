@@ -42,15 +42,15 @@
 ## Professional Summary
 
 <p align="justify">
-I am a <strong>Fullstack Developer</strong> and <strong>Data Science enthusiast</strong> with 3+ years of experience building scalable web applications, implementing AI-driven automation systems, and managing robust digital infrastructure. My expertise spans across modern web technologies, data processing pipelines, and intelligent system architecture.
+I am a <strong>Fullstack Developer</strong> and <strong>Data Science practitioner</strong> with over 3 years of hands-on experience in building scalable web applications, implementing AI-driven automation systems, and managing robust digital infrastructure. My journey is defined by a passion for solving complex technical problems through code, data, and intelligent system architecture.
 </p>
 
 <p align="justify">
-I specialize in creating end-to-end solutions that bridge the gap between complex data processing and user-friendly interfaces. From developing custom Multi-LLM agent systems with API rotation mechanisms to building responsive web dashboards with real-time data visualization, I focus on delivering solutions that are not only technically sound but also provide tangible business value.
+Rather than just writing code, I focus on creating end-to-end solutions that bridge the gap between complex data processing and user-friendly interfaces. From developing custom Multi-LLM agent systems with API rotation mechanisms to building responsive web dashboards with real-time data visualization, I deliver solutions that are technically sound and provide tangible value.
 </p>
 
 <p align="justify">
-My approach combines technical excellence with practical problem-solving, ensuring that every project I undertake is optimized for performance, scalability, and maintainability. Whether it's automating repetitive workflows with Python scripts, integrating multiple AI APIs for enhanced capabilities, or managing cloud infrastructure for optimal uptime, I bring a comprehensive skill set to every challenge.
+My approach combines technical excellence with practical problem-solving. Whether it's automating repetitive workflows with Python scripts, integrating multiple AI APIs for enhanced capabilities, or managing cloud infrastructure for optimal uptime, I bring a comprehensive, self-driven skill set to every challenge. I thrive in environments that require adaptability, continuous learning, and independent execution.
 </p>
 
 ## Core Expertise
