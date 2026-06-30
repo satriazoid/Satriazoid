@@ -374,8 +374,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://instagram.com/satriazoid">
-          <img src="https://stats.tigers.my.id/api/contact?label=Instagram&value=%40satriazoid&icon=instagram&accent=E4405F&v=20260320-4" alt="Instagram" width="100%"/>
+        <a href="https://www.instagram.com/satrialpha/">
+          <img src="https://stats.tigers.my.id/api/contact?label=Instagram&value=%40satrialpha&icon=instagram&accent=E4405F&v=20260320-4" alt="Instagram" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
