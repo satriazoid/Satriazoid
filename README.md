@@ -52,8 +52,6 @@ Driven by a solution-oriented approach, I focus on creating scalable technical a
 * **Database & Cloud Administration:** Supervised the performance optimization, relational indexing, and automatic disaster recovery backups for 50+ live production databases running on MySQL and PostgreSQL across AWS and Hostinger environments.
 * **CI/CD Pipeline Streamlining:** Re-engineered development workflows by integrating automated GitHub Actions pipelines and Docker containerization, accelerating deployment sprint velocity by 60%.
 
----
-
 ## Writing & Publication
 
 I actively document my technical engineering breakthroughs, focusing on practical implementations of Multi-LLM frameworks, heavy web scraping microservices, and continuous infrastructure performance tuning.
