@@ -2,7 +2,7 @@
   
   <!-- Header with Modern Gradient Animation instead of typing effect -->
   <a href="https://github.com/satriazoid">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1&color=0EA5E9&center=true&vCenter=true&width=600&lines=Satria+Alfarizki" alt="Satria Alfarizki" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1&color=0EA5E9&center=true&vCenter=true&width=600&lines=Satriazoid" alt="Satria Alfarizki" />
   </a>
   
   <p align="center">
