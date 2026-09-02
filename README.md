@@ -1,16 +1,11 @@
-<div align="center">
-  
-  <!-- Header with Modern Gradient Animation instead of typing effect -->
+<p align="center">
   <a href="https://github.com/satriazoid">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1&color=0EA5E9&center=true&vCenter=true&width=600&lines=Satriazoid" alt="Satria Alfarizki" />
+    <img src=".image/Banner-profile.png" alt="Satria Alfarizki" width="100%" style="border-radius: 5px;"/>
   </a>
-  
-  <p align="center">
-    <strong>Fullstack Web Developer • Data Science & Automation Enthusiast • AI Agent Developer</strong>
-  </p>
-  
-  <!-- Status Badges -->
-  <div>
+</p>
+
+ <!-- Status Badges -->
+   <div align="center">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
     <img src="https://img.shields.io/badge/Location-Indonesia-FF6B00?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location"/>
     <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Focus"/>
@@ -19,12 +14,10 @@
   <br/>
   
   <!-- Quick Stats -->
-  <div>
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=satriazoid&style=flat-square&color=0EA5E9" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/satriazoid?style=flat-square&logo=github&label=Followers&color=0EA5E9" alt="GitHub Followers"/>
   </div>
-  
-</div>
 
 ## Professional Summary
 
