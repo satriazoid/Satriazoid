@@ -159,11 +159,19 @@ I actively document my technical engineering breakthroughs, focusing on practica
 ## Connect With Me
 
 <div align="center">
-  <a href="mailto:satriaalfarizkib2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:satriaalfarizkib2@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
-  <a href="mailto:satriaalfa77@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+
+  <a href="mailto:satriaalfa77@outlook.com">
+    <img
+      src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
+      alt="Outlook"
+    />
+  </a>
   </a>
   <a href="https://www.instagram.com/satrialpha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
