@@ -19,13 +19,45 @@
     <img src="https://img.shields.io/github/followers/satriazoid?style=flat-square&logo=github&label=Followers&color=0EA5E9" alt="GitHub Followers"/>
   </div>
 
-## About Me
+## Professional Summary
 
-I'm Satria, a developer from Indonesia. I work across the full stack - Go, TypeScript, Python, PHP - but what defines my work is less the stack and more the problem: automating repetitive processes, connecting systems that don't talk to each other, and making messy data usable.
+I am a Fullstack Developer and Data Science practitioner. My work spans systems programming in Go, automation built on Multi-LLM orchestration, and fullstack web engineering with React, Next.js, and Laravel.
 
-Lately most of my time goes to two places. The first is systems programming in Go: I wrote a native Windows terminal with no browser engine or JavaScript involved, and a single-binary AI gateway that routes LLM traffic between providers with failover and health tracking. The second is AI tooling - I maintain antitextai, an open-source CLI for cleaning AI-generated text, and build workflows that orchestrate multiple LLMs.
+Recent projects include a native Windows terminal written in Go, a multi-provider AI gateway with error-classified failover, open-source Python tooling for cleaning AI-generated text, and client systems such as automated data pipelines and admin dashboards.
 
-Outside of that, I do fullstack web work (React, Next.js, Laravel) for client projects, practice data science on real datasets - ensembles, NLP, decision-support systems - and build Python automation for academic document generation. I prefer small, working software over big promises, and I'd rather measure something than claim it.
+## What I Build
+
+### Systems Programming & AI Infrastructure (Go)
+* **Native Windows Terminal:** GPU-free, mouse-first terminal for Windows in Go - ConPTY shell integration, a custom ANSI parser, and GDI rendering on a self-managed character grid. No browser engine, no webview, no JavaScript at runtime; frameless window with the tab strip doubling as the title bar.
+* **Multi-Provider AI Gateway:** Single-binary Go gateway for LLM traffic with error-classified fallback logic (retryable errors advance to the next provider, terminal errors stop immediately), health-aware routing driven by EWMA latency tracking, per-model routing policies, and opt-in context compression. Runs at roughly 14-23 MB idle memory - no Node.js required.
+* **Agent Safety Tooling:** Filesystem sandbox wrapper for local AI coding agents with whitelist/blacklist policy enforcement, fake-error blocking, audit logging, and Linux namespace isolation.
+
+### AI Integration & Multi-LLM Orchestration
+* **Orchestration Layer:** Built a multi-LLM orchestration layer integrating Gemini, GPT-4, and Claude, with API rotation and exponential backoff fallback logic.
+* **Cost Control:** Applied restrictive prompt structures and context compression across model requests to lower API consumption.
+* **Autonomous Workflows:** Built NLP data classification agents, multi-tenant chatbot workflows, and system-triggered analytical reporting tools.
+
+### Data Engineering & Web Automation
+* **Web Scraping:** Built scraping pipelines with Python, Selenium, and BeautifulSoup for client data collection, including proxy rotation, user-agent handling, and CAPTCHA-bypass middleware for restricted platforms.
+* **ETL Pipelines:** Automated cleaning steps that validate, normalize, and load unstructured raw text into central databases.
+
+### Fullstack Engineering
+* **Web Applications:** Built web applications with React, Node.js, and Laravel, applying code-splitting and lazy-loading to improve load times.
+* **Admin Dashboards:** Built dashboards with real-time Chart.js visualizations and JWT/RBAC access control.
+
+### Open-Source Tooling
+* **antitextai:** Published Python CLI that strips AI and LLM tells - invisible Unicode, smart quotes, banner separators, conversational frames - from text, Markdown, and source code. Ships as an installable Agent Skill for AI coding tools.
+* **Academic Document Automation:** Built Python engines (MyDocument, WhitePaper, Universal-Academic-Document-Engine) that convert raw text into standards-compliant academic Word documents, with automatic sub-chapter detection and AI-text cleansing.
+* **VS Code Extensions:** Developed Laragon-Controller for monitoring system resources and controlling Laragon services from the sidebar.
+
+### Data Science & Decision Support Systems
+* **Machine Learning Pipelines:** Built ensemble regression pipelines combining Random Forest, XGBoost, and LightGBM with spatial feature engineering and log-target transformation for housing price prediction.
+* **Decision Support Systems:** Implemented AHP, SAW, and WP methods for ICU patient prioritization based on medical severity (WiDS Datathon 2020 dataset).
+* **NLP & Analytics:** Sentiment analysis using neural network and LSTM approaches; analytics dashboards with Streamlit, Pandas, and SQLite.
+
+### DevOps & Cloud Infrastructure
+* **Database Administration:** Managed MySQL and PostgreSQL databases on AWS and Hostinger, covering performance tuning, relational indexing, and automated backups.
+* **CI/CD:** Set up GitHub Actions pipelines and Docker containerization for client projects.
 
 ## Writing & Publication
 
