@@ -21,47 +21,48 @@
 
 ## Professional Summary
 
-I am a Fullstack Developer and Data Science practitioner. My work spans systems programming in Go, automation built on Multi-LLM orchestration, and fullstack web engineering with React, Next.js, and Laravel.
+I am a Fullstack Developer and Data Science practitioner with over 3 years of hands-on experience specializing in bridging the gap between complex data processing and user-friendly digital products. My core focus lies in engineering high-performance systems, ranging from native systems programming in Go and intelligent Multi-LLM automation networks to responsive fullstack web platforms built with React, Next.js, and Laravel.
 
-Recent projects include a native Windows terminal written in Go, a multi-provider AI gateway with error-classified failover, open-source Python tooling for cleaning AI-generated text, and client systems such as automated data pipelines and admin dashboards.
+Driven by a solution-oriented approach, I focus on creating scalable technical architectures that solve actual operational challenges. Whether it is building a native Windows terminal without a single line of web technology, developing a single-binary AI gateway with error-classified failover, publishing open-source tooling for cleaning AI-generated text, or delivering client systems from automated data pipelines to analytical dashboards, I bring a comprehensive skill set engineered for independent execution and end-to-end technical excellence.
 
 ## What I Build
 
 ### Systems Programming & AI Infrastructure (Go)
-* **Native Windows Terminal:** GPU-free, mouse-first terminal for Windows in Go - ConPTY shell integration, a custom ANSI parser, and GDI rendering on a self-managed character grid. No browser engine, no webview, no JavaScript at runtime; frameless window with the tab strip doubling as the title bar.
-* **Multi-Provider AI Gateway:** Single-binary Go gateway for LLM traffic with error-classified fallback logic (retryable errors advance to the next provider, terminal errors stop immediately), health-aware routing driven by EWMA latency tracking, per-model routing policies, and opt-in context compression. Runs at roughly 14-23 MB idle memory - no Node.js required.
-* **Agent Safety Tooling:** Filesystem sandbox wrapper for local AI coding agents with whitelist/blacklist policy enforcement, fake-error blocking, audit logging, and Linux namespace isolation.
+* **Native Windows Terminal Engineering:** Conceptualized and built a GPU-free, mouse-first terminal for Windows written entirely in Go. Integrated ConPTY shell sessions, implemented a custom ANSI stream parser, and rendered the interface with GDI onto a self-managed character grid - no browser engine, no webview, and no JavaScript at runtime. The frameless window treats its tab strip as the title bar, with every control drawn and hit-tested by the application itself.
+* **Single-Binary AI Gateway:** Engineered a multi-provider LLM gateway in Go that routes traffic with error-classified fallback logic - retryable errors advance to the next provider while terminal errors return immediately - alongside health-aware routing driven by EWMA latency tracking, per-model routing policies, and opt-in context compression. The entire system compiles into one binary and operates at roughly 14-23 MB idle memory without requiring Node.js.
+* **Agent Safety Tooling:** Developed a filesystem sandbox wrapper for local AI coding agents, providing whitelist/blacklist policy enforcement, fake-error blocking, audit logging, and Linux namespace isolation.
 
 ### AI Integration & Multi-LLM Orchestration
-* **Orchestration Layer:** Built a multi-LLM orchestration layer integrating Gemini, GPT-4, and Claude, with API rotation and exponential backoff fallback logic.
-* **Cost Control:** Applied restrictive prompt structures and context compression across model requests to lower API consumption.
-* **Autonomous Workflows:** Built NLP data classification agents, multi-tenant chatbot workflows, and system-triggered analytical reporting tools.
+* **Intelligent Routing Architecture:** Conceptualized and deployed a specialized multi-LLM orchestration layer integrating Gemini, GPT-4, and Claude. Developed dynamic API rotation protocols and exponential backoff fallback logic to sustain continuous production operation.
+* **Context-Aware Cost Efficiency:** Engineered restrictive prompt structures and context compression across model requests to substantially reduce production API consumption overhead.
+* **Autonomous Workflows:** Developed specialized NLP data classification agents, multi-tenant automated chatbot workflows, and system-triggered analytical reporting tools.
 
-### Data Engineering & Web Automation
-* **Web Scraping:** Built scraping pipelines with Python, Selenium, and BeautifulSoup for client data collection, including proxy rotation, user-agent handling, and CAPTCHA-bypass middleware for restricted platforms.
-* **ETL Pipelines:** Automated cleaning steps that validate, normalize, and load unstructured raw text into central databases.
+### Data Engineering & Advanced Web Automation
+* **Distributed Extraction Engines:** Formulated high-throughput web scraping architectures utilizing Python, Selenium, and BeautifulSoup, streaming and processing large volumes of structured data for client operations on a daily basis.
+* **Resilient Anti-Detection Systems:** Counteracted platform blocking by building proxy-rotation rings, realistic user-agent handling databases, and CAPTCHA-bypass middleware to keep data collection pipelines running uninterrupted.
+* **Production ETL Pipelines:** Created deterministic automated data cleaning processes that validate, normalize, and load unstructured raw text streams into central databases.
 
-### Fullstack Engineering
-* **Web Applications:** Built web applications with React, Node.js, and Laravel, applying code-splitting and lazy-loading to improve load times.
-* **Admin Dashboards:** Built dashboards with real-time Chart.js visualizations and JWT/RBAC access control.
+### Fullstack Engineering & Modern Web Architectures
+* **Scalable Web Applications:** Engineered modern web applications powered by React, Node.js, and Laravel. Maximized rendering behavior by implementing strategic code-splitting and lazy-loading, improving First Contentful Paint (FCP).
+* **Enterprise Dashboards:** Built analytical administrator dashboards capable of real-time multi-stream data ingestion, utilizing dynamic Chart.js graphing and secure token-based access control (JWT/RBAC).
 
-### Open-Source Tooling
-* **antitextai:** Published Python CLI that strips AI and LLM tells - invisible Unicode, smart quotes, banner separators, conversational frames - from text, Markdown, and source code. Ships as an installable Agent Skill for AI coding tools.
-* **Academic Document Automation:** Built Python engines (MyDocument, WhitePaper, Universal-Academic-Document-Engine) that convert raw text into standards-compliant academic Word documents, with automatic sub-chapter detection and AI-text cleansing.
-* **VS Code Extensions:** Developed Laragon-Controller for monitoring system resources and controlling Laragon services from the sidebar.
+### Open-Source Tooling & Developer Experience
+* **antitextai:** Published a Python CLI that strips AI and LLM tells - invisible Unicode, smart quotes, banner separators, and conversational frames - from text, Markdown, and source code, shipped with installable Agent Skills for AI coding tools.
+* **Academic Document Automation:** Built a suite of Python engines (MyDocument, WhitePaper, Universal-Academic-Document-Engine) that convert raw text into standards-compliant academic Word documents, complete with automatic sub-chapter detection and AI-text cleansing.
+* **VS Code Extensions:** Developed Laragon-Controller, a lightweight extension for monitoring system resources and controlling Laragon services directly from the sidebar.
 
 ### Data Science & Decision Support Systems
-* **Machine Learning Pipelines:** Built ensemble regression pipelines combining Random Forest, XGBoost, and LightGBM with spatial feature engineering and log-target transformation for housing price prediction.
-* **Decision Support Systems:** Implemented AHP, SAW, and WP methods for ICU patient prioritization based on medical severity (WiDS Datathon 2020 dataset).
-* **NLP & Analytics:** Sentiment analysis using neural network and LSTM approaches; analytics dashboards with Streamlit, Pandas, and SQLite.
+* **Machine Learning Pipelines:** Built ensemble regression pipelines combining Random Forest, XGBoost, and LightGBM, applying spatial feature engineering and log-target transformation for housing price prediction.
+* **Decision Support Systems:** Implemented AHP, SAW, and WP methods for ICU patient prioritization based on medical severity levels (WiDS Datathon 2020 dataset).
+* **NLP & Analytics:** Performed sentiment analysis using neural network and LSTM approaches, and built interactive analytics dashboards with Streamlit, Pandas, and SQLite.
 
-### DevOps & Cloud Infrastructure
-* **Database Administration:** Managed MySQL and PostgreSQL databases on AWS and Hostinger, covering performance tuning, relational indexing, and automated backups.
-* **CI/CD:** Set up GitHub Actions pipelines and Docker containerization for client projects.
+### DevOps & Cloud Infrastructure Management
+* **Database & Cloud Administration:** Managed MySQL and PostgreSQL databases on AWS and Hostinger environments, covering performance optimization, relational indexing, and automated disaster recovery backups.
+* **CI/CD Pipeline Streamlining:** Re-engineered development workflows by integrating automated GitHub Actions pipelines and Docker containerization across client projects.
 
 ## Writing & Publication
 
-I write about Multi-LLM orchestration, web scraping implementation, and infrastructure tuning.
+I actively document my technical implementations, focusing on Multi-LLM orchestration frameworks, web scraping systems, and infrastructure performance tuning.
 
 <p align="left">
   <a href="https://satriazoid.substack.com" target="_blank">
