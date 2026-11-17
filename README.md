@@ -21,33 +21,47 @@
 
 ## Professional Summary
 
-I am a Fullstack Developer and Data Science practitioner with over 3 years of hands-on experience specializing in bridging the gap between complex data processing and user-friendly digital products. My core focus lies in engineering high-performance systems, ranging from responsive web platforms to intelligent, distributed automation networks and custom Multi-LLM agent orchestrations.
+I am a Fullstack Developer and Data Science practitioner. My work spans systems programming in Go, automation built on Multi-LLM orchestration, and fullstack web engineering with React, Next.js, and Laravel.
 
-Driven by a solution-oriented approach, I focus on creating scalable technical architectures that solve actual operational challenges. Whether it is deploying automated data scraping pipelines with advanced bypass mechanisms, integrating resilient multi-AI API ecosystems with seamless failovers, or managing cloud infrastructure optimized for maximum uptime, I bring a robust, comprehensive skill set engineered for independent execution and end-to-end technical excellence.
+Recent projects include a native Windows terminal written in Go, a multi-provider AI gateway with error-classified failover, open-source Python tooling for cleaning AI-generated text, and client systems such as automated data pipelines and admin dashboards.
 
-## Core Expertise & Technical Highlights
+## What I Build
+
+### Systems Programming & AI Infrastructure (Go)
+* **Native Windows Terminal:** GPU-free, mouse-first terminal for Windows in Go - ConPTY shell integration, a custom ANSI parser, and GDI rendering on a self-managed character grid. No browser engine, no webview, no JavaScript at runtime; frameless window with the tab strip doubling as the title bar.
+* **Multi-Provider AI Gateway:** Single-binary Go gateway for LLM traffic with error-classified fallback logic (retryable errors advance to the next provider, terminal errors stop immediately), health-aware routing driven by EWMA latency tracking, per-model routing policies, and opt-in context compression. Runs at roughly 14-23 MB idle memory - no Node.js required.
+* **Agent Safety Tooling:** Filesystem sandbox wrapper for local AI coding agents with whitelist/blacklist policy enforcement, fake-error blocking, audit logging, and Linux namespace isolation.
 
 ### AI Integration & Multi-LLM Orchestration
-* **Intelligent Routing Architecture:** Conceptualized and deployed a specialized multi-LLM orchestration layer integrating Gemini, GPT-4, and Claude. Developed dynamic API rotation protocols and exponential backoff fallback logic to guarantee 99.5% operational uptime.
-* **Context-Aware Cost Efficiency:** Engineered restrictive prompt structures and optimization tokens across model requests, resulting in a sustainable 45% reduction in production API consumption overhead.
-* **Autonomous Workflows:** Developed highly specialized NLP data classification agents, multi-tenant automated chatbot workflows, and system-triggered analytical reporting tools.
+* **Orchestration Layer:** Built a multi-LLM orchestration layer integrating Gemini, GPT-4, and Claude, with API rotation and exponential backoff fallback logic.
+* **Cost Control:** Applied restrictive prompt structures and context compression across model requests to lower API consumption.
+* **Autonomous Workflows:** Built NLP data classification agents, multi-tenant chatbot workflows, and system-triggered analytical reporting tools.
 
-### Data Engineering & Advanced Web Automation
-* **Distributed Extraction Engines:** Formulated high-throughput web scraping architectures utilizing Python, Selenium, and BeautifulSoup, successfully streaming and processing over 100K+ structured data points daily.
-* **Resilient Anti-Detection Systems:** Counteracted platform blocking by building proprietary proxy-rotation rings, realistic user-agent spoofing databases, and CAPTCHA-bypass middleware to ensure uninterrupted data collection pipelines.
-* **Production ETL Pipelines:** Created deterministic automated data cleaning processes that validate, normalize, and load unstructured raw text streams into central databases with a checked 99% data accuracy rate.
+### Data Engineering & Web Automation
+* **Web Scraping:** Built scraping pipelines with Python, Selenium, and BeautifulSoup for client data collection, including proxy rotation, user-agent handling, and CAPTCHA-bypass middleware for restricted platforms.
+* **ETL Pipelines:** Automated cleaning steps that validate, normalize, and load unstructured raw text into central databases.
 
-### Fullstack Engineering & Modern Web Architectures
-* **Scalable Web Applications:** Engineered 15+ modern web applications powered by React, Node.js, and Laravel. Maximized rendering benchmarks by implementing strategic code-splitting and lazy-loading, decreasing First Contentful Paint (FCP) by 40%.
-* **Enterprise Dashboards:** Built analytical administrator cockpits capable of real-time multi-stream data ingestion utilizing dynamic Chart.js graphing and secure token-based access control (JWT/RBAC).
+### Fullstack Engineering
+* **Web Applications:** Built web applications with React, Node.js, and Laravel, applying code-splitting and lazy-loading to improve load times.
+* **Admin Dashboards:** Built dashboards with real-time Chart.js visualizations and JWT/RBAC access control.
 
-### DevOps & Cloud Infrastructure Management
-* **Database & Cloud Administration:** Supervised the performance optimization, relational indexing, and automatic disaster recovery backups for 50+ live production databases running on MySQL and PostgreSQL across AWS and Hostinger environments.
-* **CI/CD Pipeline Streamlining:** Re-engineered development workflows by integrating automated GitHub Actions pipelines and Docker containerization, accelerating deployment sprint velocity by 60%.
+### Open-Source Tooling
+* **antitextai:** Published Python CLI that strips AI and LLM tells - invisible Unicode, smart quotes, banner separators, conversational frames - from text, Markdown, and source code. Ships as an installable Agent Skill for AI coding tools.
+* **Academic Document Automation:** Built Python engines (MyDocument, WhitePaper, Universal-Academic-Document-Engine) that convert raw text into standards-compliant academic Word documents, with automatic sub-chapter detection and AI-text cleansing.
+* **VS Code Extensions:** Developed Laragon-Controller for monitoring system resources and controlling Laragon services from the sidebar.
+
+### Data Science & Decision Support Systems
+* **Machine Learning Pipelines:** Built ensemble regression pipelines combining Random Forest, XGBoost, and LightGBM with spatial feature engineering and log-target transformation for housing price prediction.
+* **Decision Support Systems:** Implemented AHP, SAW, and WP methods for ICU patient prioritization based on medical severity (WiDS Datathon 2020 dataset).
+* **NLP & Analytics:** Sentiment analysis using neural network and LSTM approaches; analytics dashboards with Streamlit, Pandas, and SQLite.
+
+### DevOps & Cloud Infrastructure
+* **Database Administration:** Managed MySQL and PostgreSQL databases on AWS and Hostinger, covering performance tuning, relational indexing, and automated backups.
+* **CI/CD:** Set up GitHub Actions pipelines and Docker containerization for client projects.
 
 ## Writing & Publication
 
-I actively document my technical engineering breakthroughs, focusing on practical implementations of Multi-LLM frameworks, heavy web scraping microservices, and continuous infrastructure performance tuning.
+I write about Multi-LLM orchestration, web scraping implementation, and infrastructure tuning.
 
 <p align="left">
   <a href="https://satriazoid.substack.com" target="_blank">
@@ -56,7 +70,7 @@ I actively document my technical engineering breakthroughs, focusing on practica
 </p>
 
 
-## Technical Stack & Metrics
+## Technical Stack
 
 <div align="center">
   
@@ -74,13 +88,11 @@ I actively document my technical engineering breakthroughs, focusing on practica
 
   <br/><br/>
   
-  <!-- Comprehensive Technical Stack Grid Table -->
-<!-- Comprehensive Technical Stack Grid Table -->
-
 <table width="100%">
   <tr>
     <td width="25%" valign="top" align="left"><strong>Languages</strong></td>
     <td valign="top" align="left">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -119,10 +131,12 @@ I actively document my technical engineering breakthroughs, focusing on practica
   <td valign="top" align="left">
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
     <img src="https://img.shields.io/badge/JupyterLab-F37626?style=flat&logo=jupyter&logoColor=white" alt="JupyterLab"/>
     <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
   </td>
 </tr>
 
@@ -140,15 +154,6 @@ I actively document my technical engineering breakthroughs, focusing on practica
       <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white" alt="pnpm"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="25%" align="center"><h2>15+</h2><sub>Web Apps Delivered</sub></td>
-    <td width="25%" align="center"><h2>100K+</h2><sub>Daily Data Points</sub></td>
-    <td width="25%" align="center"><h2>80%</h2><sub>Manual Process Cut</sub></td>
-    <td width="25%" align="center"><h2>99.9%</h2><sub>System Uptime</sub></td>
   </tr>
 </table>
 
@@ -171,7 +176,6 @@ I actively document my technical engineering breakthroughs, focusing on practica
       src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
       alt="Outlook"
     />
-  </a>
   </a>
   <a href="https://www.instagram.com/satrialpha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
