@@ -58,7 +58,7 @@ Driven by a solution-oriented approach, I focus on creating scalable technical a
 
 ### DevOps & Cloud Infrastructure Management
 * **Database & Cloud Administration:** Managed MySQL and PostgreSQL databases on AWS and Hostinger environments, covering performance optimization, relational indexing, and automated disaster recovery backups.
-* **CI/CD Pipeline Streamlining:** Re-engineered development workflows by integrating automated GitHub Actions pipelines and Docker containerization across client projects.
+* **CI/CD Pipeline Streamlining:** Re-engineered development workflows by integrating automated GitHub Actions pipelines across client projects.
 
 ## Writing & Publication
 
@@ -97,6 +97,7 @@ I actively document my technical implementations, focusing on Multi-LLM orchestr
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
     </td>
@@ -144,7 +145,6 @@ I actively document my technical implementations, focusing on Multi-LLM orchestr
   <tr>
     <td width="25%" valign="top" align="left"><strong>DevOps & Deployment</strong></td>
     <td valign="top" align="left">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/>
